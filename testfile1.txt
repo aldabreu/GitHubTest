@@ -1,6 +1,10 @@
 testfile1f
 asfhjsfajkfsajk
 asjlsaflsjklasf'saf
+<<<<<<< HEAD
 
+=======
+will thdis work?
+>>>>>>> 9626ab04269901cbf7102cdbed7bee621bc21c50
 sfa
 fs
